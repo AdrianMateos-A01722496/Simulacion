@@ -1,0 +1,14 @@
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/bin/Debug/net8.0/Simulacion
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/bin/Debug/net8.0/Simulacion.deps.json
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/bin/Debug/net8.0/Simulacion.runtimeconfig.json
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/bin/Debug/net8.0/Simulacion.dll
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/bin/Debug/net8.0/Simulacion.pdb
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.AssemblyInfoInputs.cache
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.AssemblyInfo.cs
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.csproj.CoreCompileInputs.cache
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.dll
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/refint/Simulacion.dll
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.pdb
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/Simulacion.genruntimeconfig.cache
+/Users/adrianmateos/Documents/PythonAMG/Optimizacion2/Simulacion/obj/Debug/net8.0/ref/Simulacion.dll
